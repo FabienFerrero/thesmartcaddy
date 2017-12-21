@@ -5,6 +5,6 @@ On pourra faire notre liste de course avant d’aller au magasine et a l’aide 
 
 Pour cela il nous faudra :
 
-- une dialogue caddie / smartphone avec application —> bluetooth et nfc
+- un dialogue caddie / smartphone avec application —> bluetooth et nfc
 - un lecteur de code barre
 - une base de donnée qui lie le code barre au produit (avec toutes les infos le concernant par exemple: la provenance, la composition, les allergènes, les valeurs nutritionnelles et le prix)
