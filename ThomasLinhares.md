@@ -9,3 +9,12 @@ Pour cela il nous faudra :
 - un lecteur de code barre
 - une base de donnée qui lie le code barre au produit (avec toutes les infos le concernant par exemple: la provenance, la composition, les allergènes, les valeurs nutritionnelles et le prix)
 -une assistance pour la poussée pour les personnes agées (à voir)
+
+
+Seance 2: 10 janvier 2018
+
+Nous avons discuté aussi sur les composants dont on aurait besoin.
+Nous avons commencé à coder en java notre application android.
+Certains problemes sont survenus mais nous esperons les resoudre à la prochaine séance.
+
+A la prochaine seance, nous esperons avoir fini le codage de l'application et pourquoi pas se pencher sur l'interface graphique de celle-ci.
